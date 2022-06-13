@@ -13,3 +13,5 @@ The results of these scripts were good. However we didn't factor several things 
 
 Despite having not so correctly outputted communities, we still got to see some communities that were accurately being detected and we have been able to show promising results.
 
+The datasets that were used for this Project were the facebook and twitter EGO network datasets on the stanford website. 
+https://snap.stanford.edu/data/ego-Facebook.html and https://snap.stanford.edu/data/ego-Twitter.html
